@@ -1,0 +1,49 @@
+<head>
+    <title>chocolates</title>
+</head>
+
+<body>
+    <p> <b>chocolates</b></p>
+
+    <table border="1">
+        <tr>
+            <th> s.no</th>
+            <th> chocolates</th>
+            <th> cost</th>
+        </tr>
+        <tr>
+            <th> 1</th>
+            <th> <mark>dairy milk</mark> </th>
+            <th> 100$</th>
+        </tr>
+        <tr>
+            <th>2</th>
+            <th><mark>kitkat</mark></th>
+            <th>45$</th>
+        <tr>
+            <th> 3</th>
+            <th> <mark>snickers almond</mark></th>
+            <th> 80$</th>
+        </tr>
+        <tr>
+            <th>4</th>
+            <th><mark>dark chocolate</mark></th>
+            <th> 170$</th>
+        </tr>
+    </table>
+
+    <ol type="A">
+      <li>helicopter</li>
+      <li> bikes</li>
+      <li>aerolanes</li>
+    </ol>
+    <ul type="square"> 
+       <li>stories</li>
+       <li>novel</li>
+       <li> naruto</li>
+    </ul>
+
+</body>
+
+
+</html>
