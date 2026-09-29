@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main ()
+{
+    int marks = 17;
+    if(marks>=18)
+    printf("eliible to vote");
+
+   else 
+{
+    printf("not eligible to vote");
+}
+ return 0;
+}
